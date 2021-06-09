@@ -1,3 +1,3 @@
-# Venom2 - учебный проект Glo Academy
-## Проект выполнен Amfaxtis
-
+# Venom2 - Landing page для фильма
+## Venom: Let There Be Carnage
+### Языки: HTML, CSS, JavaScript
